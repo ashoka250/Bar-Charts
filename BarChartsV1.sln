@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarChartsV1", "BarChartsV1.csproj", "{4BB90A9F-BA4D-4698-865F-C809F92C7EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB90A9F-BA4D-4698-865F-C809F92C7EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB90A9F-BA4D-4698-865F-C809F92C7EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB90A9F-BA4D-4698-865F-C809F92C7EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB90A9F-BA4D-4698-865F-C809F92C7EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A099A9D5-07D6-42D8-A0BE-1463ABBBD4A3}
+	EndGlobalSection
+EndGlobal
