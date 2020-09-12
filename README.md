@@ -1,6 +1,6 @@
 # Bar and line charts using Chart.JS
 
-Bar and line charts that uses demo data to build versatile charts using chartJS. The charts can be easily integrated into any existing system. 
+Bar and line charts that uses demo data to build versatile charts using Chart.JS. The charts can be easily integrated into any existing system. 
 
 ## Tech
 This project uses following tech stack:
